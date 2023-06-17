@@ -1,0 +1,15 @@
+.li-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding: 3%;
+}
+.list-img {
+  height: 120px;
+  width: 180px;
+  border-radius: 10px;
+}
+.list-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
